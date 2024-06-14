@@ -1,5 +1,5 @@
 <style>
-img{float:left;clear:left}
+
 body{font-size:1.5em}
 </style>
 
