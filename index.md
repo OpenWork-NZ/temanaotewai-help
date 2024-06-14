@@ -1,20 +1,18 @@
-Accessing the site -
+## Accessing the site -
 
 In your browser, go to -
-[[https://temanaotewai.geodata.nz/]{.underline}](https://temanaotewai.geodata.nz/)
+[https://temanaotewai.geodata.nz/](https://temanaotewai.geodata.nz/)
 
 To get this (temporary) landing page
--![pasted-movie.png](/media/image1.png){width="6.6929757217847765in"
-height="2.5090638670166228in"}
+-![image1.png](/media/image1.png)
 
-Click "[[Continue to
-map]{.underline}](https://temanaotewai.geodata.nz/geonetwork/srv/eng/catalog.search#/map)\"
+Click "[Continue to
+map](https://temanaotewai.geodata.nz/geonetwork/srv/eng/catalog.search#/map)\"
 
 This brings you to the main site
 -![pasted-movie.png](/media/image2.png){width="6.6929757217847765in"
 height="3.927396106736658in"}
 
-## 
 
 ## Main Page Controls -
 
